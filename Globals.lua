@@ -32,32 +32,32 @@ function CreateLocalizationInfo()
 		-- help --
 		------------------------------------------------------------------------------------------
 		Strings.PluginHelp1 = "\n\nListe der Befehle:\n";
-		Strings.PluginHelp2 = "/Ho show - Schaufenster.\n";
-		Strings.PluginHelp3 = "/Ho hide - verstecke das Fenster.\n";
-		Strings.PluginHelp4 = "/Ho options - Zeigen Sie das Optionsfenster an.\n";
-		Strings.PluginHelp5 = "/Ho alt - ALT-Taste gedrückt halten, um das Symbol zu verschieben.\n";
-		Strings.PluginHelp6 = "/Ho esc - ESC-Taste aktivieren / deaktivieren.\n";
-		Strings.PluginHelp7 = "/Ho clear - L\195\182schen Sie alle Verkn\195\188pfungen.\n\n";
-		Strings.PluginHelp8 = "/Ho toggle - display or hide the window.\n\n";
-		Strings.PluginHelp9 = "Klicken Sie mit der rechten Maustaste auf das Symbol, um das Optionsfeld anzuzeigen";
+		Strings.PluginHelp2 = "/ho show - Zeigt das Fenster an.\n";
+		Strings.PluginHelp3 = "/ho hide - Blendet das Fenster aus.\n";
+		Strings.PluginHelp4 = "/ho options - Zeigt die Optionen an.\n";
+		Strings.PluginHelp5 = "/ho alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
+		Strings.PluginHelp6 = "/ho esc - Aktiviert/Deaktiviert die Escape-Taste, um das Fenster zu schlie\195\159en.\n";
+		Strings.PluginHelp7 = "/ho clear - L\195\182scht alle Verkn\195\188pfungen.\n";
+		Strings.PluginHelp8 = "/ho toggle - Fenster anzeigen/ausblenden.\n\n";
+		Strings.PluginHelp9 = "Klicke mit der rechten Maustaste auf das Symbol, um die Optionen anzuzeigen.";
 		------------------------------------------------------------------------------------------
 		-- command text  --
 		------------------------------------------------------------------------------------------
-		Strings.PluginWindowShow = "Schaufenster.";
-		Strings.PluginWindowHide = "Verstecke das Fenster.";
-		Strings.PluginWindowClear = "L\195\182schen Sie alle Verkn\195\188pfungen.";
+		Strings.PluginWindowShow = "Fenster wird angezeigt";
+		Strings.PluginWindowHide = "Fenster wird ausgeblendet";
+		Strings.PluginWindowClear = "Alle Verkn\195\188pfungen gel\195\182scht!";
 		------------------------------------------------------------------------------------------
 		-- option window --
 		------------------------------------------------------------------------------------------
 		Strings.PluginOption1 = "Anzahl der Zeilen";
-		Strings.PluginOption2 = "Anzahl der Steckpl\195\164tze pro Zeile";
-		Strings.PluginOption10 = "\195\132nderungen validieren";
-		Strings.PluginOption11 = "Zuf\195\164llige Montierung anzeigen";
-		Strings.PluginOption12 = " Benutzen";
-		Strings.PluginOption13 = "Fenster beim Klicken automatisch schlie\195\159en";
-		Strings.PluginOption14 = " Auto schlie\195\159en";
-		Strings.PluginUI2 = "Zuf\195\164llige Montierung";
-		Strings.PluginERROR = "Du brauchst mindestens 1 Vertrauten in deinem Stall";
+		Strings.PluginOption2 = "Anzahl der Spalten";
+		Strings.PluginOption10 = "Speichern";
+		Strings.PluginOption11 = "Zuf\195\164lliges Reittier anzeigen";
+		Strings.PluginOption12 = " Aktivieren";
+		Strings.PluginOption13 = "Fenster nach der Auswahl automatisch schlie\195\159en";
+		Strings.PluginOption14 = " Automatisches Schlie\195\159en";
+		Strings.PluginUI2 = "Zuf\195\164lliges Reittier";
+		Strings.PluginERROR = "Du brauchst mindestens 1 Reittier in deinem Stall!";
 		------------------------------------------------------------------------------------------
 		-- Français --
 		------------------------------------------------------------------------------------------
