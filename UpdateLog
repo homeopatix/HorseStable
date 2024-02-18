@@ -1,3 +1,21 @@
+UPDATE V1.18
+(French)
+Rajout d'une option pour choisir de fermer ou non la fenetre lors du click de selection
+(English)
+Addition of an option to choose whether or not to close the window during the selection click
+(Deutsche)
+Hinzufügen einer Option, um auszuwählen, ob das Fenster während des Auswahlklicks geschlossen werden soll oder nicht
+
+UPDATE V1.17
+(French)
+Corriger un bogues qui faisait planter le plugin si la monture aleatoire etait selectionné mais qu'il n'y avait pas de monture dans la fenetre
+Quelques correction de bogues
+(English)
+Some bugs fixes
+Fixed a bug that caused the plugin to crash if the random mount was selected but there was no mount in the window
+(Deutsche)
+Einige Fehlerbehebungen
+Es wurde ein Fehler behoben, der zum Absturz des Plugins führte, wenn das zufällige Mount ausgewählt wurde, aber kein Mount im Fenster war
 
 UPDATE V1.16
 (French)
