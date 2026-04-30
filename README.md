@@ -2,18 +2,15 @@
 <img width="1536" height="1024" alt="homeo_plugins" src="https://github.com/user-attachments/assets/1b3f50fe-a4c1-4d38-9215-a1f839d7a76b" />
 
 
-# PlopIamConnected – LOTRO Plugin
+# HorseStable – LOTRO Plugin
 
 ![Lua](https://img.shields.io/badge/Lua-Plugin-blue)
 ![LOTRO](https://img.shields.io/badge/Game-LOTRO-darkgreen)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)
 
-AltHolic est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**  
-PlopIamConnected est un petit plugin pour avoir une vue agrandie de vos amis quand il se connecte
-Entrer le nom des amis que vous souhaiter suivre qui se trouve dans votre liste d'ami
-ou ajouter le nom d'un ami de guilde
-
+HorseStable est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**  
+HorseStable est un petit plugin pour avoir un accès rapide à vos monture favorites
 ---
 
 # 🚀 Fonctionnalités
@@ -26,7 +23,7 @@ ou ajouter le nom d'un ami de guilde
 
 | Commande / Touche | Action | 
 |--------|------------------|
-| Afficher / Masquer l'icône | `/Alt icon` |
+| Afficher / Masquer l'icône | `/Ho icon` |
 | Déplacer l’icône | `ALT` |
 | Ouvrir les options | `SHIFT + clic sur l’icône` |
 
@@ -34,11 +31,12 @@ ou ajouter le nom d'un ami de guilde
 
 | Commande | Description | 
 |--------|------------------|
-| /Plop show	| Montre la fenêtre principale |
-| /Plop hide	| Cache la fenêtre principale |
-| /Plop list	| BAffiche la liste de vos amis |
-| /Plop clearall	| Supprime tous les amis |
-| /Plop clear naomdelami	| Supprime l'ami défini |
+| /Ho show | montre la fenetre |
+| /Ho hide | cache la fenetre |
+| /Ho clear | effacer toutes les entrees |
+| /Ho alt | Active ou désactive la touche alt pour le déplacement de l'icon |
+| /Ho options | affiche la fenètre d'options |
+| /Ho toggle | affiche ou cache la fenetre |
 
 ------------------------------------------------------------------------
 
@@ -46,13 +44,13 @@ ou ajouter le nom d'un ami de guilde
 
 1.  Télécharger le ZIP depuis GitHub ou LOTROInterface.
 2.  Extraire le dossier.
-3.  Copier le dossier `PlopIamConnected` dans :
+3.  Copier le dossier `HorseStable` dans :
 
     Documents\The Lord of the Rings Online\Plugins\Homeopatix
 
 4.  En jeu :
     
-    /plugins load plopiamconnected
+    /plugins load HorseStable
 
 ------------------------------------------------------------------------
 
