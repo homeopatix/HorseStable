@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>HorseStable</Name>
+		<Author>Homeopatix</Author>
+		<Version>1.20</Version>
+		<Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+HorseStable est un petit plugin pour avoir un acces rapide a vos montures
+Vous pouvez effacer un raccourci avec la mollete de la souris sur le reccourci
+Clique droite sur l'icone pour ouvrir la fenetre d'options
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+HorseStable is a small plugin to have quick access to your mounts
+You can delete a shortcut with the mouse wheel on the shortcut
+Right click on the icon to open the options window
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+HorseStable ist ein kleines Plugin, mit dem Sie schnell auf Ihre Reittiere zugreifen konnen
+Sie konnen eine Verknupfung mit dem Mausrad auf der Verknupfung loschen
+Sie konnen auf die Schaltflache HORSESTABLE klicken, um das Fenster anzuzeigen, oder auf die Schaltflache klicken, um es auszublenden
+Klicken Sie mit der rechten Maustaste auf das Symbol, um das Optionsfenster zu offnen
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+(French)
+Raccourci disponible
+/Ho show -- montre la fenetre
+/Ho hide -- cache la fenetre
+/Ho clear -- effacer toutes les entrees
+/Ho options -- affiche la fenetre d'option
+/Ho alt - Active ou desactive la touche alt pour le deplacement de l'icon
+/Ho esc - Active ou desactive la touche Escape
+/Ho toggle - affiche ou cache la fenetre
+
+(English)
+Shortcut available
+/Ho show - show the window
+/Ho hide - hide the window
+/Ho clear - clear all entries
+/Ho options -- display the options panel
+/Ho alt - Activate or deactivate the alt key to move the icon
+/Ho esc - Activate or deactivate the Escape key
+/Ho toggle - display or hide the window
+
+(Deutsche)
+Verknupfung verfugbar
+/Ho show - zeige das Fenster
+/Ho Hide - Verstecke das Fenster
+/Ho clear - Alle Eintrage loschen
+/Ho options -- Zeigen Sie das Optionsfeld an
+/Ho alt - ALT-Taste gedruckt halten, um das Symbol zu verschieben
+/Ho esc - ESC-Taste aktivieren / deaktivieren
+/Ho toggle - Fenster ein-oder ausblenden
+		</Description>
+<Image>Homeopatix/HorseStable/Resources/pluginmanager_icon.tga</Image>
+	</Information>
+	<Package>Homeopatix.HorseStable.Main</Package>
+<Configuration Apartment="HorseStable" />
+</Plugin>
